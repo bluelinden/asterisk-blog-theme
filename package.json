@@ -1,0 +1,23 @@
+{
+  "name": "asterisk-blog-theme",
+  "version": "1.0.0",
+  "description": "blue linden's blog theme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluelinden/asterisk-blog-theme.git"
+  },
+  "keywords": [
+    "asterisk",
+    "blog-theme",
+    "ghost"
+  ],
+  "author": "blue linden.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bluelinden/asterisk-blog-theme/issues"
+  },
+  "homepage": "https://github.com/bluelinden/asterisk-blog-theme#readme"
+}
